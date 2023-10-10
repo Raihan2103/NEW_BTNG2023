@@ -1,0 +1,37 @@
+/* h1{
+    color: red;
+} */
+h1{
+   font-weight: 700;
+   text-decoration: underline; 
+}
+
+p{
+    font-size: 15px;
+    background-color: yellow;
+}
+
+span{
+    color: yellow;
+}
+
+.container{
+    width: 400px;
+    height: auto;
+    box-shadow: 10px 13px 0 -1px blue(0, 0, 0, 0.67);
+}
+
+#judul1{
+    font-weight: 800;
+    color: yellow;
+    text-decoration: underline;
+}
+
+#judul2{
+    font-weight: 800;
+    color: red;
+}
+
+.content{
+    background-color: aqua;
+}
